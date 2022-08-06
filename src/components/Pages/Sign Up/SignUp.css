@@ -1,0 +1,21 @@
+.signup{
+    font-size: 20px;
+    color: #222
+}
+.signup-title{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.signup-wrapper{
+    background: #F91944;
+    height: 700px;
+    width: 600px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 360px;
+    border-radius: 20px;
+}

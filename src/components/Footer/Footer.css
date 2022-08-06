@@ -1,0 +1,53 @@
+.footer{
+    margin-top: 70px;
+    background: #191919;
+    color: #fff;
+    padding: 100px 0;
+}
+
+.footer-logo img{
+    height: 70px;
+    width: 250px;
+}
+
+
+.footer-right{
+    display: flex;
+}
+
+.footer-links ul li{
+    list-style: none;
+    font-size: 19px;
+    margin-bottom: 7px;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.4s ease;
+}
+.footer-links ul li a:hover{
+    color: #f91944;
+}
+
+.site-policy{
+    display: flex;
+    margin-left: 190px;
+}
+.footer-bottom{
+    margin-top: 70px;
+    display: flex;
+}
+
+.site-policy li{
+    list-style: none;
+    margin-right: 30px;
+}
+.site-policy li a{
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.4s ease;
+}
+.site-policy li a:hover{
+    text-decoration: none;
+    color: #f91944;
+}
